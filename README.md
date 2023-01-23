@@ -1,0 +1,2 @@
+# replacer-texts-docx
+updatefast
